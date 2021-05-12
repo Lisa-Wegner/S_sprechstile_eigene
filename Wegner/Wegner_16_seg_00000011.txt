@@ -1,0 +1,1 @@
+LABELS:val=1,cat=valence,orig=human,type=category,conf=1,vocabId=1;
