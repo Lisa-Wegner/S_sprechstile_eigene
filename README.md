@@ -13,3 +13,7 @@ Analyse der eigenen Rede
    Im Abgabe-Notebook sind die Schritte erklärt und in der richtigen Reihenfolge zu finden
 
    [siehe Abgabe-Notebook](Sprechstile_eigene_Abgabe-checkpoint.ipynb)
+   
+   Weitere Notebooks, die für die Analyse benötigt wurden, sind die Praat-Notebooks:
+
+   die Notebooks sind im [Praat-Ornder](PraatScripts-master) abgelegt
