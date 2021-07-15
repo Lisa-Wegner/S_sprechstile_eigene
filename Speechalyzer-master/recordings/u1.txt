@@ -1,1 +1,0 @@
-LABELS:val=2,cat=irony,orig=human,type=category,conf=1,vocabId=1;
